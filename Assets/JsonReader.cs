@@ -1,6 +1,6 @@
 ﻿using System;
-using com.adjust.sdk;
-//using LitJson;
+//using com.adjust.sdk;
+using LitJson;
 
 // Token: 0x02000190 RID: 400
 public class JsonReader

@@ -8,7 +8,7 @@ public class GameInit : MonoBehaviour
 	private void Awake()
 	{
 		LanguageManager.Instance.Init();
-		SDKManager.Instance.Init();
+		//SDKManager.Instance.Init();
 		DataManager.Instance.LoadData();
 		DailyManager.Instance.Load();
 		PlayerManager.Instance.SetStartGameTime();

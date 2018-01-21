@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
-using com.adjust.sdk;
-//using LitJson;
+//using com.adjust.sdk;
+using LitJson;
 
 // Token: 0x02000139 RID: 313
 public class DataCategory

@@ -1,6 +1,6 @@
-﻿using com.adjust.sdk;
+﻿//using com.adjust.sdk;
 using System;
-//using LitJson;
+using LitJson;
 
 // Token: 0x0200013C RID: 316
 public class DataImage

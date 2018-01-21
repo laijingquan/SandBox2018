@@ -1,8 +1,8 @@
-﻿using com.adjust.sdk;
+﻿//using com.adjust.sdk;
 using System;
 using System.Collections.Generic;
 using System.IO;
-/*using LitJson;*/
+using LitJson;
 using UnityEngine;
 
 // Token: 0x020001A6 RID: 422

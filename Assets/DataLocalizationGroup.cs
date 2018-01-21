@@ -1,7 +1,7 @@
-﻿using com.adjust.sdk;
+﻿//using com.adjust.sdk;
 using System;
 using System.Collections.Generic;
-/*using LitJson;*/
+using LitJson;
 
 // Token: 0x0200013F RID: 319
 public class DataLocalizationGroup
