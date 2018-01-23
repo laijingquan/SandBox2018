@@ -38,7 +38,7 @@ GameObject:
   - component: {fileID: 4607366657914224}
   - component: {fileID: 212211878935530138}
   m_Layer: 5
-  m_Name: HightLight
+  m_Name: HighLight
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

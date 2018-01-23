@@ -27,7 +27,7 @@ public class SceneGameManager : MonoBehaviour
 				}
 				if (flag)
 				{
-					GoogleAdmobBanner.Instance.ShowBanner();
+					//GoogleAdmobBanner.Instance.ShowBanner();
 				}
 				GameManager.Instance.gameTilesLayer.SetVisible(true);
 				ColorButtonPoolManager.Instance.SetActive(true);
@@ -44,7 +44,7 @@ public class SceneGameManager : MonoBehaviour
 		else
 		{
 			MainUIManager.Instance.SetMenuPanelVisible(true);
-			GoogleAdmobBanner.Instance.HideBanner();
+			//GoogleAdmobBanner.Instance.HideBanner();
 			GameUIManager.Instance.SetColorFinishUpdate(false);
 			ColorButtonPoolManager.Instance.SetActive(false);
 			GameManager.Instance.gameTilesLayer.SetVisible(false);
@@ -68,7 +68,7 @@ public class SceneGameManager : MonoBehaviour
 	private IEnumerator ShowInterstitial()
 	{
 		yield return new WaitForEndOfFrame();
-		GoogleAdmobInterstitial.Instance.ShowInterstitial();
+		//GoogleAdmobInterstitial.Instance.ShowInterstitial();
 		yield break;
 	}
 
