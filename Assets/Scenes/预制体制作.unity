@@ -445,15 +445,15 @@ Prefab:
       propertyPath: m_Pivot.y
       value: 0.5
       objectReference: {fileID: 0}
+    - target: {fileID: 224920200431290886, guid: d5e9cf85802e3ec46846804b6f6872b5,
+        type: 2}
+      propertyPath: m_SizeDelta.y
+      value: 1749.9996
+      objectReference: {fileID: 0}
     - target: {fileID: 224306064837487404, guid: d5e9cf85802e3ec46846804b6f6872b5,
         type: 2}
       propertyPath: m_SizeDelta.y
       value: 1588.2352
-      objectReference: {fileID: 0}
-    - target: {fileID: 224920200431290886, guid: d5e9cf85802e3ec46846804b6f6872b5,
-        type: 2}
-      propertyPath: m_SizeDelta.y
-      value: 324.074
       objectReference: {fileID: 0}
     - target: {fileID: 1725476115187518, guid: d5e9cf85802e3ec46846804b6f6872b5, type: 2}
       propertyPath: m_IsActive

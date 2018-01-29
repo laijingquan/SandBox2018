@@ -67,7 +67,7 @@ public class GameUIManager : MonoBehaviour
 		Transform transform2 = this._gamePanel.transform.Find("Bottom_Banner");
 		Transform transform3;
 		Transform transform4;
-		if (flag)
+		if (true)
 		{
 			transform.gameObject.SetActive(false);
 			transform2.gameObject.SetActive(true);
